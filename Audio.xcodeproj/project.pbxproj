@@ -12,6 +12,8 @@
 		0AFFAD2C1FAABBA800F19F66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AFFAD2A1FAABBA800F19F66 /* Main.storyboard */; };
 		0AFFAD2E1FAABBA800F19F66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AFFAD2D1FAABBA800F19F66 /* Assets.xcassets */; };
 		0AFFAD311FAABBA800F19F66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AFFAD2F1FAABBA800F19F66 /* LaunchScreen.storyboard */; };
+		0AFFAD3A1FAAC3EB00F19F66 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AFFAD391FAAC3EB00F19F66 /* song.mp3 */; };
+		0AFFAD781FAAD54F00F19F66 /* Love Story.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0AFFAD771FAAD54F00F19F66 /* Love Story.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0AFFAD2D1FAABBA800F19F66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AFFAD301FAABBA800F19F66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AFFAD321FAABBA800F19F66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AFFAD391FAAC3EB00F19F66 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
+		0AFFAD771FAAD54F00F19F66 /* Love Story.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love Story.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		0AFFAD251FAABBA800F19F66 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
+				0AFFAD771FAAD54F00F19F66 /* Love Story.mp3 */,
+				0AFFAD391FAAC3EB00F19F66 /* song.mp3 */,
 				0AFFAD261FAABBA800F19F66 /* AppDelegate.swift */,
 				0AFFAD281FAABBA800F19F66 /* ViewController.swift */,
 				0AFFAD2A1FAABBA800F19F66 /* Main.storyboard */,
@@ -123,7 +129,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AFFAD781FAAD54F00F19F66 /* Love Story.mp3 in Resources */,
 				0AFFAD311FAABBA800F19F66 /* LaunchScreen.storyboard in Resources */,
+				0AFFAD3A1FAAC3EB00F19F66 /* song.mp3 in Resources */,
 				0AFFAD2E1FAABBA800F19F66 /* Assets.xcassets in Resources */,
 				0AFFAD2C1FAABBA800F19F66 /* Main.storyboard in Resources */,
 			);
